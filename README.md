@@ -1,4 +1,3 @@
-# ai-governance-gap-analysis
 # AI Governance Gap Analysis: Healthcare AI Diagnostic Tool
 
 A policy gap analysis that compares a company's existing security policies against requirements from Microsoft's Responsible AI Standard, then turns the findings into a prioritized remediation backlog.
@@ -27,3 +26,6 @@ Old IT security policies do not cover AI-specific harms, such as biased or unsaf
 
 ## What I would add next
 From my SOC experience, I would add AI-specific monitoring and alerting to the incident response plan, so unsafe model behavior is detected quickly.
+
+## Files
+- [Remediation_Analysis.pdf](Remediation_Analysis.pdf)
